@@ -1,0 +1,14 @@
+img {
+    height: 300px;
+    width: auto;
+}
+
+p {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+li {
+    color: green
+}
